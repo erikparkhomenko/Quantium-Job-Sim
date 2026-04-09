@@ -1,4 +1,4 @@
-# Quantium Virtual Internship — Retail Analytics
+# Quantium Virtual Internship: Retail Analytics
 
 A two-part data analytics project completed as part of the [Quantium Virtual Internship](https://www.theforage.com/) on Forage. The analysis covers chip product transaction data for a major Australian retailer, progressing from exploratory data analysis through to experimentation and uplift testing.
 
